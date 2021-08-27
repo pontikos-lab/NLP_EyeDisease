@@ -6,7 +6,8 @@
 Moorfields Eye Hospital (MEH) unstructured free-text EHR data<br/>
 MIMIC-III unstructured free-text EHR data<br/>
 ## Natural Language Processing (NLP) pipeline:
-CogStack SemEHR: https://github.com/CogStack/CogStack-SemEHR
+Using CogStack SemEHR to identify eye disease phenotype.<br/>
+https://github.com/CogStack/CogStack-SemEHR
 ## Object:
 Use binary classification for internal and external validation to determine whether the mentions identified by CogStack-SemEHR is true or not using BERT model.
 ## Process:
