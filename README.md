@@ -1,4 +1,4 @@
-# NLP BERT
+# Natural Language Processing for Extraction of Phenotypes for Inherited Retinal Disease from Electronic Health Records
 ## Structure Diagram of this study:
 ![map](https://user-images.githubusercontent.com/88321656/131142342-d007fabe-ff6f-4503-bbde-d5b68a8d37b7.jpeg)
 
