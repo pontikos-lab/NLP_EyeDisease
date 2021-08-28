@@ -1,6 +1,7 @@
 # Natural Language Processing for Extraction of Phenotypes for Inherited Retinal Disease from Electronic Health Records
 ## Structure Diagram of this study:
-![map](https://user-images.githubusercontent.com/88321656/131142342-d007fabe-ff6f-4503-bbde-d5b68a8d37b7.jpeg)
+<!-- ![map](https://user-images.githubusercontent.com/88321656/131142342-d007fabe-ff6f-4503-bbde-d5b68a8d37b7.jpeg) -->
+![Concept map](https://user-images.githubusercontent.com/88321656/131233618-3777b9d9-c80a-404f-9fec-bcb0aea37f1f.jpeg)
 
 ## Dataset:
 Moorfields Eye Hospital (MEH) unstructured free-text EHR data<br/>
