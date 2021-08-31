@@ -13,10 +13,10 @@ https://github.com/CogStack/CogStack-SemEHR
 Use binary classification for internal and external validation to determine whether the mentions identified by CogStack-SemEHR is true or not using BERT model.
 ## Process:
 1. Preprocess of the dataset<br/>
-    MIMIC-III: https://github.com/pontikos-lab/NLP_BERT/blob/main/MIMIC-III_preprocessing.ipynb<br/>
-    MEH: https://github.com/pontikos-lab/NLP_BERT/blob/main/MEH_preprocessing.ipynb
+    MIMIC-III: https://github.com/pontikos-lab/NLP_EyeDisease/blob/main/MIMIC-III_preprocessing.ipynb<br/>
+    MEH: https://github.com/pontikos-lab/NLP_EyeDisease/blob/main/MEH_preprocessing.ipynb
 2. Internal validation of BERT<br/>
-    MIMIC-III: https://github.com/pontikos-lab/NLP_BERT/blob/main/MIMIC-III_BERT.ipynb<br/>
-    MEH: https://github.com/pontikos-lab/NLP_BERT/blob/main/MEH_BERT.ipynb
+    MIMIC-III: https://github.com/pontikos-lab/NLP_EyeDisease/blob/main/MIMIC-III_BERT.ipynb<br/>
+    MEH: https://github.com/pontikos-lab/NLP_EyeDisease/blob/main/MEH_BERT.ipynb
 3. External validation of BERT<br/>
-    MIMIC-III use MEH for validation: https://github.com/pontikos-lab/NLP_BERT/blob/main/MIMIC-III_BERT_MEH_validation.ipynb
+    MIMIC-III use MEH for validation: https://github.com/pontikos-lab/NLP_EyeDisease/blob/main/MIMIC-III_bert_MEH_validation.ipynb
